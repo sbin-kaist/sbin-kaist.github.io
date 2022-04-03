@@ -1,5 +1,7 @@
 # Projects (as PI)
 <font color="rgb(128, 0, 128)">This text should be purple</font>
+<font style="color: rgb(255,0,0)"> This is my font </font>
+
 ## Human-Computer Interaction
 
 ### <span style="color:blue">Static gesture recognition</span>
