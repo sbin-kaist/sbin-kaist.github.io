@@ -21,7 +21,7 @@ Studies on gesture recognition are often not focused on real-world applications.
 Details will be released later.
 
 ---
-### [Gait analysis](http://example.com/)
+### <font color="rgb(44, 44, 128)">Gait analysis</font>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 (Under progress)
 <br>
