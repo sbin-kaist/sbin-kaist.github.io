@@ -58,7 +58,7 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 - Part selecting, programming, wiring and etc.
 
 ### <mark style='background-color: #ccffff'>Rendering and image processing</mark>
-<img src="images/gesture_static/GesturesAccuracy.png?raw=true"/>
+<img src="images/extra/imgsources.png?raw=true"/>
 - Image source generating and post-processing
 - Basic skills on Photoshop and Illustrator
 
