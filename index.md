@@ -3,7 +3,7 @@
 
 ## Human-Computer Interaction
 
-### <mark style='background-color: #66ccff'>Static gesture recognition</mark>
+### <mark style='background-color: #ccffff'>Static gesture recognition</mark>
 <img src="images/gesture_static/GesturesAccuracy.png?raw=true"/>
 __(Paper in preparation)__
 <br>
@@ -12,7 +12,7 @@ Our study focused on the high resolution of pneumatic myography with passive ela
 Details will be released later.
 
 ---
-### <mark style='background-color: #66ccff'>Dynamic gesture recognition</mark>
+### <mark style='background-color: #ccffff'>Dynamic gesture recognition</mark>
 {% include youtubePlayer.html id="spRBrlzH1nE" %}
 (Paper in preparation)
 <br>
@@ -21,7 +21,7 @@ Studies on gesture recognition are often not focused on real-world applications.
 Details will be released later.
 
 ---
-### <mark style='background-color: #66ccff'>Gait analysis</mark>
+### <mark style='background-color: #ccffff'>Gait analysis</mark>
 {% include youtubePlayer.html id="vO7Zg8ciqf0" %}
 (Under progress)
 <br>
@@ -33,7 +33,7 @@ Most gait analysis methods employ IMUs or encoders. However, those sensor system
 
 ## Reinforcement Learning
 
-### <mark style='background-color: #66ccff'>Style transfer of human to a robot with limited DOFs</mark>
+### <mark style='background-color: #ccffff'>Style transfer of human to a robot with limited DOFs</mark>
 {% include youtubePlayer.html id="wcGt7EAkdVg" %}
 (Under progress)
 <br>
@@ -43,20 +43,20 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 
 ## Extra Skills
 
-### <mark style='background-color: #66ccff'>PCB artwork</mark>
+### <mark style='background-color: #ccffff'>PCB artwork</mark>
 - From datasheets to a PCB
 
-### <mark style='background-color: #66ccff'>Embedded programming</mark>
+### <mark style='background-color: #ccffff'>Embedded programming</mark>
 - Development of libraries for sensors
 - Basic wireless communication 
 
-### <mark style='background-color: #66ccff'>Model design & rendering</mark>
+### <mark style='background-color: #ccffff'>Model design & rendering</mark>
 - Image source generating or 3D printing
 
-### <mark style='background-color: #66ccff'>Basic photoshop & illustration</mark>
+### <mark style='background-color: #ccffff'>Basic photoshop & illustration</mark>
 - Image source generating and post-processing
 
-### <mark style='background-color: #66ccff'>Basic mechanical system design</mark>
+### <mark style='background-color: #ccffff'>Basic mechanical system design</mark>
 - Mechanical design for machining
 - Part selecting, programming, wiring and etc.
 
