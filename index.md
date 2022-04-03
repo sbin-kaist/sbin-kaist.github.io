@@ -1,6 +1,5 @@
 # Projects
----
----
+
 ## Intent Recognition
 
 ### [Static gesture recognition](/sample_page)
