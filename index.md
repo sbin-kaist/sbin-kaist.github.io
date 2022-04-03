@@ -36,7 +36,7 @@ Most gait analysis methods employ IMUs or encoders. However, those sensor system
 {% include youtubePlayer.html id="wcGt7EAkdVg" %}
 (Under progress)
 <br>
-Natural-looking joint trajectory generation is essential for wearable robots. At the same time, the system must consider the wearer's safety and reasonable energy consumption. This study aims to transfer the walking style of the human being to a robot with limited DOFs based on the [Adversarial Motion Priors](https://arxiv.org/abs/2104.02180).
+Natural-looking joint trajectory generation is essential for wearable robots. At the same time, the system must consider the wearer's safety and reasonable energy consumption. This study aims to transfer the walking style of the human being to a robot with limited DOFs based on the [Adversarial Motion Priors](https://arxiv.org/abs/2104.02180), which is an adverarial imitation learning based on unorganized motion dataset.
 
 ---
 
