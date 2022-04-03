@@ -5,7 +5,7 @@
 
 ### <mark style='background-color: #66ccff'>Static gesture recognition</mark>
 <img src="images/gesture_static/GesturesAccuracy.png?raw=true"/>
-(Paper in preparation)
+__(Paper in preparation)__
 <br>
 Our study focused on the high resolution of pneumatic myography with passive elastic elements in the human body. We achieved 97.5% accuracy in the classification of 28 gestures. The baseline SOTA method with 8-channel sEMG (Delsys, USA) achieved 94% accuracy. (The experiment involved 10 subjects.)
 <br>
