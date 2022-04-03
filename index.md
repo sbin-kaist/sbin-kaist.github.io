@@ -12,7 +12,7 @@ Our study focused on the high resolution of pneumatic myography with passive ela
 Details will be released later.
 
 ---
-### <font color="rgb(102, 102, 153)">Dynamic gesture recognition</font>
+### <font color="rgb(22, 22, 111)">Dynamic gesture recognition</font>
 {% include youtubePlayer.html id="spRBrlzH1nE" %}
 (Paper in preparation)
 <br>
@@ -21,8 +21,8 @@ Studies on gesture recognition are often not focused on real-world applications.
 Details will be released later.
 
 ---
-### <font color="rgb(44, 44, 128)">Gait analysis</font>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### <font color="rgb(22, 22, 111)">Gait analysis</font>
+{% include youtubePlayer.html id="vO7Zg8ciqf0" %}
 (Under progress)
 <br>
 Most gait analysis methods employ IMUs or encoders. However, those sensor system requires solid brackets, and misalignment problems are often caused. We developed a soft sensor system with an ergonomic design and optimized our algorithm for the robust real-time gait phase & mode analysis.
