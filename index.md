@@ -3,7 +3,7 @@
 
 ## Human-Computer Interaction
 
-### <font color="rgb(0, 0, 128)">Static gesture recognition</font>
+### <mark style='background-color: #f1f8ff'>Static gesture recognition</mark>
 <img src="images/gesture_static/Gestures.png?raw=true"/>
 (Paper in preparation)
 <br>
@@ -12,7 +12,7 @@ Our study focused on the high resolution of pneumatic myography with passive ela
 Details will be released later.
 
 ---
-### <font color="rgb(22, 22, 111)">Dynamic gesture recognition</font>
+### <mark style='background-color: #f1f8ff'>Dynamic gesture recognition</mark>
 {% include youtubePlayer.html id="spRBrlzH1nE" %}
 (Paper in preparation)
 <br>
@@ -21,7 +21,7 @@ Studies on gesture recognition are often not focused on real-world applications.
 Details will be released later.
 
 ---
-### <font color="rgb(22, 22, 111)">Gait analysis</font>
+### <mark style='background-color: #f1f8ff'>Gait analysis</mark>
 {% include youtubePlayer.html id="vO7Zg8ciqf0" %}
 (Under progress)
 <br>
@@ -33,7 +33,7 @@ Most gait analysis methods employ IMUs or encoders. However, those sensor system
 
 ## Reinforcement Learning
 
-### [Style transfer of human to a robot with limited DOFs](/sample_page)
+### <mark style='background-color: #f1f8ff'>Style transfer of human to a robot with limited DOFs</mark>
 {% include youtubePlayer.html id="wcGt7EAkdVg" %}
 (Under progress)
 <br>
@@ -43,7 +43,7 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 
 ## Extra Skills
 
-### [PCB artwork]
+### <mark style='background-color: #f1f8ff'>PCB artwork</mark>
 
 
 
