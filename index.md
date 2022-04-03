@@ -1,8 +1,9 @@
 # Projects (as PI)
 
+===
 
 ## Human-Computer Interaction
-
+---
 ### <mark style='background-color: #ccffff'>Static gesture recognition</mark>
 <img src="images/gesture_static/GesturesAccuracy.png?raw=true"/>
 __(Paper in preparation)__
@@ -32,7 +33,7 @@ Most gait analysis methods employ IMUs or encoders. However, those sensor system
 ---
 
 ## Reinforcement Learning
-
+---
 ### <mark style='background-color: #ccffff'>Style transfer of human to a robot with limited DOFs</mark>
 {% include youtubePlayer.html id="wcGt7EAkdVg" %}
 (Under progress)
@@ -42,7 +43,7 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 ---
 
 ## Extra Skills
-
+---
 ### <mark style='background-color: #ccffff'>PCB artwork</mark>
 - From datasheets to a PCB
 
