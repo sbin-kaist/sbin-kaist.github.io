@@ -17,9 +17,9 @@ Details will be released later.
 
 ---
 ### [Gait analysis](http://example.com/)
-{% include youtubePlayer.html id="wcGt7EAkdVg" %}
- 
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 (Under progress)
+<br>
 Prevailing gait analysis methodoligy utilizes IMUs or encoders. However, those sensor system requires solid brackets and misalignment problems are often caused. We developed a soft sensor system with ergonomic design and optimizing our algorithm for the robust real-time gait phase & mode analysis.
 
 ---
@@ -27,7 +27,7 @@ Prevailing gait analysis methodoligy utilizes IMUs or encoders. However, those s
 ## Reinforcement Learning
 
 ### [Style transfer of human to a robot with limited DOFs](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+{% include youtubePlayer.html id="wcGt7EAkdVg" %}
 (Under progress)
 
 
