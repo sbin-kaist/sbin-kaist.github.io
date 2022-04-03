@@ -17,7 +17,7 @@ Details will be released later.
 
 ---
 ### [Gait analysis](http://example.com/)
-{% include youtubePlayer.html id="4EU7vvSvV-0" %}
+{% include youtubePlayer.html id="wcGt7EAkdVg" %}
  
 (Under progress)
 Prevailing gait analysis methodoligy utilizes IMUs or encoders. However, those sensor system requires solid brackets and misalignment problems are often caused. We developed a soft sensor system with ergonomic design and optimizing our algorithm for the robust real-time gait phase & mode analysis.
