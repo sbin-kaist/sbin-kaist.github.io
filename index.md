@@ -3,7 +3,7 @@
 
 ## Human-Computer Interaction
 
-### <font style="rgb(128, 0, 128)">Static gesture recognition</font>
+### <font color="rgb(128, 0, 128)">Static gesture recognition</font>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 (Paper in preparation)
 <br>
@@ -12,7 +12,7 @@ Our study focused on the high resolution of pneumatic myography with passive ela
 Details will be released later.
 
 ---
-### <font style="rgb(102, 102, 153)">Dynamic gesture recognition</font>
+### <font color="rgb(102, 102, 153)">Dynamic gesture recognition</font>
 {% include youtubePlayer.html id="spRBrlzH1nE" %}
 (Paper in preparation)
 <br>
@@ -21,7 +21,7 @@ Studies on gesture recognition are often not focused on real-world applications.
 Details will be released later.
 
 ---
-### <font style="rgb(44, 44, 128)">Gait analysis</font>
+### <font color="rgb(44, 44, 128)">Gait analysis</font>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 (Under progress)
 <br>
