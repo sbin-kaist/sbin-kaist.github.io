@@ -12,7 +12,7 @@ Our study focused on the high resolution of pneumatic myography with passive ela
 Details will be released later.
 
 ---
-### [Dynamic gesture recognition](/pdf/sample_presentation.pdf)
+### <font color="rgb(102, 102, 153)">Dynamic gesture recognition</font>
 {% include youtubePlayer.html id="spRBrlzH1nE" %}
 (Paper in preparation)
 <br>
