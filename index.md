@@ -2,7 +2,7 @@
 
 ## Human-Computer Interaction
 
-### [Static gesture recognition](/sample_page)
+### <span style="color:blue">Static gesture recognition</span>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 (Paper in preparation)
 <br>
