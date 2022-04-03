@@ -25,7 +25,8 @@ Details will be released later.
 (Under progress)
 <br>
 Most gait analysis methods employ IMUs or encoders. However, those sensor system requires solid brackets, and misalignment problems are often caused. We developed a soft sensor system with an ergonomic design and optimized our algorithm for the robust real-time gait phase & mode analysis.
-- [ICCAS 2021](https://ieeexplore.ieee.org/document/9649762)
+<br>
+[ICCAS 2021](https://ieeexplore.ieee.org/document/9649762)
 
 ---
 
