@@ -3,8 +3,8 @@
 
 ## Human-Computer Interaction
 
-### <font color="rgb(128, 0, 128)">Static gesture recognition</font>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### <font color="rgb(0, 0, 128)">Static gesture recognition</font>
+<img src="images/gesture_static/Gestures.png?raw=true"/>
 (Paper in preparation)
 <br>
 Our study focused on the high resolution of pneumatic myography with passive elastic elements in the human body. We achieved 97.5% accuracy in the classification of 28 gestures. The baseline SOTA method with 8-channel sEMG (Delsys, USA) achieved 94% accuracy. (The experiment involved 10 subjects.)
