@@ -126,7 +126,7 @@ As stated earlier, the style reward is judged by the GAIL algorithm.
 However, motion clips are provided in the form of state, not action.  
 Therefore, the algorithm is optimized based on state transitions rather than actions, which changes the GAIL objective as follows.
 
-![eq5](/.gitbook/assets/57/eq5.png)
+![eq5](/Review/RL/img/AMP/eq5.png)
 
 Additionally, this research optimizes the disriminator based on the least-squares loss to prevent the vanishing gradient problem based on [a previous research](https://doi.org/10.1109/ICCV.2017.304).
 
