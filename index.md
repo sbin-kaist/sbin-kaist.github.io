@@ -12,7 +12,7 @@ mark {
 <br>
 
 ## Human-Computer Interaction
-#### hello
+This project is funded by NRF (생체신호센서융합기술개발사업)
 ---
 ### <mark>Static gesture recognition</mark>
 <img src="images/gesture_static/GesturesAccuracy.png?raw=true"/>
