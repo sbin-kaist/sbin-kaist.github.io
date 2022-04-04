@@ -2,12 +2,10 @@
 <style>
 mark { 
   background-color: white;
-  color: rgb(33, 222, 11);
+  color: rgb(40, 56, 74);
 }
 </style>
 </head>
-
-<mark> hello </mark>
 
 # Projects (as PI)
 
@@ -15,7 +13,7 @@ mark {
 
 ## Human-Computer Interaction
 ---
-### <font style='#232e3b'>Static gesture recognition</font>
+### <mark>Static gesture recognition</mark>
 <img src="images/gesture_static/GesturesAccuracy.png?raw=true"/>
 _(Paper in preparation)_
 <br>
@@ -24,7 +22,7 @@ Our study focused on the high resolution of pneumatic myography with passive ela
 Details will be released later.
 
 ---
-### <font color='#232e3b'>Dynamic gesture recognition</font>
+### <mark>Dynamic gesture recognition</mark>
 {% include youtubePlayer.html id="spRBrlzH1nE" %}
 _(Paper in preparation)_
 <br>
@@ -33,7 +31,7 @@ Studies on gesture recognition are often not focused on real-world applications.
 Details will be released later.
 
 ---
-### <font color='#232e3b'>Gait analysis</font>
+### <mark>Gait analysis</mark>
 {% include youtubePlayer.html id="vO7Zg8ciqf0" %}
 _(Under progress)_
 <br>
@@ -46,7 +44,7 @@ Most gait analysis methods employ IMUs or encoders. However, those sensor system
 <br>
 ## Reinforcement Learning
 ---
-### <font color='#232e3b'>Style transfer of human to a robot with limited DOFs</font>
+### <mark>Style transfer of human to a robot with limited DOFs</mark>
 {% include youtubePlayer.html id="wcGt7EAkdVg" %}
 _(Under progress)_
 <br>
@@ -57,19 +55,19 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 <br>
 ## Extra Skills
 ---
-### <font color='#232e3b'>PCB artwork</font>
+### <mark>PCB artwork</mark>
 - From datasheets to a PCB
 <img src="images/extra/PCB_Artwork.png?raw=true"/>
 
-### <font color='#232e3b'>Embedded programming</font>
+### <mark>Embedded programming</mark>
 - Development of libraries for sensors
 - Basic wireless communication
 
-### <font color='#232e3b'>Basic mechanical system design</font>
+### <mark>Basic mechanical system design</mark>
 - Mechanical design for machining or printing
 - Part selecting, programming, wiring and etc.
 
-### <font color='#232e3b'>Rendering and image processing</font>
+### <mark>Rendering and image processing</mark>
 - Image source generating and post-processing
 - Basic skills on Photoshop and Illustrator
 <img src="images/extra/imgsources.png?raw=true"/>
