@@ -33,7 +33,7 @@ Studies on gesture recognition are often not focused on real-world applications.
 Details will be released later.
 
 ---
-### <mark>Gait analysis</mark>
+### <mark>Real-time gait analysis for soft wearable robots</mark>
 {% include youtubePlayer.html id="vO7Zg8ciqf0" %}
 _(Under progress)_
 <br>
