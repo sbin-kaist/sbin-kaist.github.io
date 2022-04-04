@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+
 <head>
 <style>
 mark { 
@@ -75,3 +78,5 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 ---
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
+
+</html>
