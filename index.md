@@ -15,7 +15,7 @@ mark {
 **This project is funded by NRF (생체신호센서융합기술개발사업)**
 
 ---
-### <mark>Static gesture recognition</mark>
+### <mark>Improvement of gesture recognition</mark>
 <img src="images/gesture_static/GesturesAccuracy.png?raw=true"/>
 _(Paper in preparation)_
 <br>
@@ -24,7 +24,7 @@ Our study focused on the high resolution of pneumatic myography with passive ela
 Details will be released later.
 
 ---
-### <mark>Dynamic gesture recognition</mark>
+### <mark>Real-world application of gesture recognition</mark>
 {% include youtubePlayer.html id="spRBrlzH1nE" %}
 _(Paper in preparation)_
 <br>
