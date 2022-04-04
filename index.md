@@ -46,6 +46,7 @@ Most gait analysis methods employ IMUs or encoders. However, those sensor system
 <br>
 ## Learning-based Control
 ---
+
 ### <mark>Transfer of human gait style to robots with limited DOFs</mark>
 {% include youtubePlayer.html id="wcGt7EAkdVg" %}
 _(Under progress)_
@@ -57,6 +58,7 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 <br>
 ## Extra Skills
 ---
+
 ### <mark>PCB artwork</mark>
 - From datasheets to a PCB
 <img src="images/extra/PCB_Artwork.png?raw=true"/>
