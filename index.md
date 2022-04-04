@@ -61,6 +61,7 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 
 ### <mark>PCB artwork</mark>
 - From datasheets to a PCB
+
 <img src="images/extra/PCB_Artwork.png?raw=true"/>
 
 ### <mark>Embedded programming</mark>
@@ -74,6 +75,7 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 ### <mark>Rendering and image processing</mark>
 - Image source generating and post-processing
 - Basic skills on Photoshop and Illustrator
+
 <img src="images/extra/imgsources.png?raw=true"/>
 
 ---
