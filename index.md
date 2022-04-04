@@ -28,7 +28,7 @@ Details will be released later.
 {% include youtubePlayer.html id="spRBrlzH1nE" %}
 _(Paper in preparation)_
 <br>
-Studies on gesture recognition are often not focused on real-world applications. We studied the critical factors in gesture recognition in the presence of dynamic arm movements. Based on the analysis, we suggested sensor placement, training method, and classification algorithm for real-world applications.
+Studies on gesture recognition are often not focused on real-world applications. We studied the critical factors in gesture recognition in the presence of dynamic arm movements. Based on the analysis, we suggested sensor placement, training method, and classification algorithm for real-world applications. Especially, we proposed a reliable out-of-distribution data elimination method for the robust application.
 <br>
 Details will be released later.
 
