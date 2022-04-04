@@ -7,13 +7,14 @@ mark {
 </style>
 </head>
 
-# Projects (as PI)
+<h1> Projects (as PI) </h1>
 
 <br>
 
-## Human-Computer Interaction
+<h2> Human-Computer Interaction </h2>
 
 This project is funded by NRF (생체신호센서융합기술개발사업)
+
 ---
 ### <mark>Static gesture recognition</mark>
 <img src="images/gesture_static/GesturesAccuracy.png?raw=true"/>
