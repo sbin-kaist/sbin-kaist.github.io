@@ -48,6 +48,7 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 ---
 ### <font color='#232e3b'>PCB artwork</font>
 - From datasheets to a PCB
+<img src="images/extra/PCB_Artwork.png?raw=true"/>
 
 ### <font color='#232e3b'>Embedded programming</font>
 - Development of libraries for sensors
@@ -58,9 +59,9 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 - Part selecting, programming, wiring and etc.
 
 ### <font color='#232e3b'>Rendering and image processing</font>
-<img src="images/extra/imgsources.png?raw=true"/>
 - Image source generating and post-processing
 - Basic skills on Photoshop and Illustrator
+<img src="images/extra/imgsources.png?raw=true"/>
 
 ---
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
