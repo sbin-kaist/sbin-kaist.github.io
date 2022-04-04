@@ -1,9 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
 <style>
 mark { 
   background-color: yellow;
   color: rgb(33, 222, 11);
 }
 </style>
+</head>
+<body>
 
 <mark> hello </mark>
 
