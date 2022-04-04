@@ -2,7 +2,7 @@
 <style>
 mark { 
   background-color: white;
-  color: rgb(40, 222, 74);
+  color: rgb(51, 87, 128);
 }
 </style>
 </head>
