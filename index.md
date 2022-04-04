@@ -4,7 +4,7 @@
 
 ## Human-Computer Interaction
 ---
-### <font color='#232e3b'>Static gesture recognition</font>
+### <font style='#232e3b'>Static gesture recognition</font>
 <img src="images/gesture_static/GesturesAccuracy.png?raw=true"/>
 _(Paper in preparation)_
 <br>
