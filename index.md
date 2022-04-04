@@ -46,7 +46,7 @@ Most gait analysis methods employ IMUs or encoders. However, those sensor system
 <br>
 ## Reinforcement Learning
 ---
-### <mark>Style transfer of human to a robot with limited DOFs</mark>
+### <mark>Transfer of human gait style to robots with limited DOFs</mark>
 {% include youtubePlayer.html id="wcGt7EAkdVg" %}
 _(Under progress)_
 <br>
