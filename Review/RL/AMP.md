@@ -67,7 +67,7 @@ In other words, the robot simulation means that the robot (performing movements 
 The goal of goal-based reinforcement learning is to create an agent that maximizes the reward based on the designed reward function.
 (The basic reinforcement learning terms will not be explained.)
 
-![eq1](/Review/RL/img/AMP//eq1.png)
+![eq1](/Review/RL/img/AMP/eq1.png)
 
 As a result, the agent learns a policy that maximizes the optimization objective defined by the above equation.  
 This research trains the agents based on [PPO](https://arxiv.org/abs/1707.06347).
