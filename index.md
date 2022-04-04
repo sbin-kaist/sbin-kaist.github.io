@@ -19,7 +19,7 @@ mark {
 <img src="images/gesture_static/GesturesAccuracy.png?raw=true"/>
 _(Paper in preparation)_
 <br>
-Our study focused on the high resolution of pneumatic myography with passive elastic elements in the human body. We achieved 97.5% accuracy in the classification of 28 gestures. The baseline SOTA method with 8-channel sEMG (Delsys, USA) achieved 94% accuracy. The experiment involved 10 subjects.
+Our study focused on obtaining high resolution features from the passive elastic elements in the human body. We achieved 97.5% accuracy in the classification of 28 gestures. The baseline SOTA method with 8-channel sEMG (Delsys, USA) achieved 94% accuracy. The experiment involved 10 subjects.
 <br>
 Details will be released later.
 
