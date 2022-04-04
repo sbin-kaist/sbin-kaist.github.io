@@ -1,11 +1,8 @@
-<!DOCTYPE html>
-<html>
-
 <head>
 <style>
 mark { 
   background-color: white;
-  color: rgb(40, 56, 74);
+  color: rgb(40, 222, 74);
 }
 </style>
 </head>
@@ -78,5 +75,3 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 ---
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
-
-</html>
