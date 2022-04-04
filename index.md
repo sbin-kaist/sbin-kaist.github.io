@@ -1,3 +1,12 @@
+<style>
+mark { 
+  background-color: yellow;
+  color: rgb(33, 222, 11);
+}
+</style>
+
+<mark> hello </mark>
+
 # Projects (as PI)
 
 <br>
